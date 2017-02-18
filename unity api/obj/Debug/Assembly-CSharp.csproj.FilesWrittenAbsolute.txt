@@ -1,0 +1,70 @@
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/obj/Debug/Assembly-CSharp.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/UnityEngine.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/UnityEditor.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/Mono.Cecil.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/Unity.DataContract.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/ruipereira/Documents/unityTUTS/vuforiaTEST/Vuforia_example/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/obj/Debug/Assembly-CSharp.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/UnityEngine.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/UnityEditor.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/Mono.Cecil.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/Unity.DataContract.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/Vuforia-unity56/Vuforia_example_u56/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/obj/Debug/Assembly-CSharp.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/UnityEngine.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/UnityEditor.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/Mono.Cecil.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/Unity.DataContract.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/itpstudent/Downloads/MagicWindowsMixedUpRealities-master 2/API UNITY/unity api/Temp/bin/Debug/Mono.Cecil.Mdb.dll

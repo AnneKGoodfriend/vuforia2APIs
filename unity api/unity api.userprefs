@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/quadscript.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/GET_NewMethod.cs" Line="34" Column="16" />
+      <File FileName="Assets/ui.cs" Line="6" Column="16" />
+      <File FileName="Assets/quadscript.cs" Line="7" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
